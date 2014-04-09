@@ -1,4 +1,3 @@
 name: Vetri Group of Institutions
 markdown: redcarpet
 pygments: true
-exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor]
